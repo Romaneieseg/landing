@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Abril+Fatface|Staatliches&display=swap")
+
+@import url("components/conainer.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Abril+Fatface', serif;
+	font-size: 18px;
+	margin: 0px;
+
+}
+h1, h2, h3{
+	font-family: 'Staatliches', cursive;
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+}
